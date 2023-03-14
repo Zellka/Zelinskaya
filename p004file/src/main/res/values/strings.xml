@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">p004file</string>
+    <string name="processor">Процессор</string>
+    <string name="monitor">Монитор</string>
+    <string name="case_title">Корпус</string>
+    <string name="videoCard">Видеокарта</string>
+    <string name="hardDrive">Жёсткий диск</string>
+    <string name="btn_calculate">Расчёт</string>
+
+    <string-array name="processors">
+        <item>Процессор Intel Core i3-10105</item>
+        <item>Процессор Intel Pentium G6405</item>
+    </string-array>
+
+    <string-array name="monitors">
+        <item>Большой</item>
+        <item>Маленький</item>
+    </string-array>
+
+    <string-array name="cases">
+        <item>Корпус Thermaltake H550 TG</item>
+        <item>Корпус ZEUS K11B, Midi Tower</item>
+    </string-array>
+
+    <string-array name="videoCards">
+        <item>Видеокарта Gigabyte GeForce GTX</item>
+        <item>Видеокарта Palit GeForce GT 730</item>
+    </string-array>
+
+    <string-array name="hardDrives">
+        <item>HDD</item>
+        <item>SSD</item>
+    </string-array>
+</resources>
